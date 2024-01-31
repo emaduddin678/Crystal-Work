@@ -77,6 +77,12 @@
   color: #32325d;
   margin-bottom: 0.2em;
 }
+.project_cards .project_card-intro {
+  
+  line-height: 1.1em;
+  color: #32325d;
+  margin-bottom: 12px;
+}
 
 /* Card Image Styles */
 .project_cards .project_card-image {

@@ -4829,7 +4829,7 @@ h6, .h6 {
 .service-item-three .content {
   z-index: 2;
   position: relative;
-  margin: -80px 20px 50px 50px; }
+  margin: 0px 0px 50px 0px; }
   @media only screen and (max-width: 375px) {
     .service-item-three .content {
       margin-left: 10px;
@@ -4839,7 +4839,7 @@ h6, .h6 {
     -o-transition: 0.5s;
     transition: 0.5s;
     background: white;
-    padding: 40px 50px 30px;
+    padding: 40px 20px 30px;
     -webkit-box-shadow: 10px 0 40px rgba(103, 77, 243, 0.1);
     box-shadow: 10px 0 40px rgba(103, 77, 243, 0.1); }
     @media only screen and (max-width: 479px) {
@@ -4878,7 +4878,7 @@ h6, .h6 {
     transition: 0.5s;
     margin-top: -20px;
     background: white;
-    padding: 0 50px 30px;
+    padding: 0 20px 30px;
     -webkit-transform: translateY(-30px);
     -ms-transform: translateY(-30px);
     transform: translateY(-30px);
